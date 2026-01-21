@@ -4,10 +4,6 @@ HoloMambaRec is a minimal, single-file reference implementation of holographic b
 
 ## Repository contents
 - `HoloMambaRec.py` — end-to-end script (data prep, models, training loops, evals, and plotting).
-- `arch.png`, `bench.png`, `ablation.png` — diagrams and figure exports used in the paper draft.
-- `learning_curve_*.png`, `compression_*.png`, `ablation_study.png` — auto-generated metrics/plots from the script.
-- `grid_search_results.csv` — example CSV emitted by the grid search helper.
-- `holo_mamba_rec_final.pdf` and supporting `.tex`/`.bib` files — paper draft assets.
 
 ## Setup
 Python 3.9+ and a CUDA GPU are recommended.
